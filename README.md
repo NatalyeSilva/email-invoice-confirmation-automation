@@ -39,26 +39,14 @@ Anticipo Seco
 Saldo Seco
 Anticipo Líquidos
 Saldo Líquidos
+
 Technologies Used
 Python
 Pandas
 Tkinter
 PyWin32 (Outlook integration)
 OpenPyXL
-Project Structure
-project
-│
-├── correos_app.py
-├── lanzar_app.bat
-│
-├── Plantilla.xlsx
-├── remitentes.xlsx
-│
-├── COMPROBANTES/
-│   ├── transportista1.pdf
-│   ├── transportista2.pdf
-│
-└── README.md
+
 Installation
 Install the required dependencies:
 
